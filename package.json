@@ -1,0 +1,25 @@
+{
+  "name": "convert-wp-to-md",
+  "version": "1.0.0",
+  "description": "convert wordpress readme to markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csjoblom/convert-wp-to-md.git"
+  },
+  "keywords": [
+    "wordpress",
+    "readme",
+    "markdown",
+    "conversion"
+  ],
+  "author": "Chris Sjoblom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csjoblom/convert-wp-to-md/issues"
+  },
+  "homepage": "https://github.com/csjoblom/convert-wp-to-md#readme"
+}
